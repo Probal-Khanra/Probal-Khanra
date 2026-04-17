@@ -35,11 +35,11 @@
 
 ### 📊 Lab Activity (Stable Mirror)
 <p align="left">
-<img src="https://github-readme-stats-alpha.vercel.app/api?username=Probal_Khanra&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-<img src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=Probal_Khanra&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+<img src="https://github-readme-stats-alpha.vercel.app/api?username=Probal-Khanra&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+<img src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=Probal-Khanra&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
 ---
 
 ### 🤝 Connect with me
-**[LinkedIn](https://www.linkedin.com/in/probal-khanra/)** | **[Portfolio](https://probal-portfolio.vercel.app/)**
+**[LinkedIn](https://www.linkedin.com/in/probal-khanra/)** | **[Portfolio(Under makingg :( )](https://probal-portfolio.vercel.app/)**
