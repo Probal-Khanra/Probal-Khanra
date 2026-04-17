@@ -2,7 +2,7 @@
 ### 📟 Hardware Engineering & Embedded Systems
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpueGtxZzR5bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKVUn7iM8FMEU24/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXczaG54ZzMzcTQ3ODhyMDFiMDExZDN2M3dzbml6a2RsZ25hYXBiMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QMHoU66sBXqqLqYvGO/giphy.gif)" width="100%" alt="Circuitry Vibe">
+  <img src="(https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXczaG54ZzMzcTQ3ODhyMDFiMDExZDN2M3dzbml6a2RsZ25hYXBiMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QMHoU66sBXqqLqYvGO/giphy.gif)" width="100%" alt="Circuitry Vibe">
 </p>
 
 > **"Building physical systems from the ground up. Currently exploring the intersection of Freeform Electronics and Mesh Networks."**
