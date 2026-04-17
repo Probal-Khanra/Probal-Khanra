@@ -23,7 +23,6 @@
 - [ ] **Structural Circuitry:** Refining the structural integrity of freeform builds.
 - [ ] **Embedded Debugging:** Learning to use logic analyzers and oscilloscopes.
 - [ ] **Power Management:** Optimizing projects for battery and solar efficiency.
-- [ ] **SparkStart:** Building the foundation for my DIY hardware brand.
 
 ---
 
@@ -34,13 +33,13 @@
 
 ---
 
-### 📊 Lab Activity (Stable View)
+### 📊 Lab Activity (Stable Mirror)
 <p align="left">
-<img src="https://github-readme-stats.shion.dev/api?username=Probal_Khanra&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Probal_Khanra&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+<img src="https://github-readme-stats-alpha.vercel.app/api?username=Probal_Khanra&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+<img src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=Probal_Khanra&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
 ---
 
 ### 🤝 Connect with me
-**[LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/probal-khanra/))** | **[Portfolio]([YOUR_PORTFOLIO_URL](https://probal-portfolio.vercel.app/))**
+**[LinkedIn](https://www.linkedin.com/in/probal-khanra/)** | **[Portfolio](https://probal-portfolio.vercel.app/)**
