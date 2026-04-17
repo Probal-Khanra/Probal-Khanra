@@ -2,52 +2,45 @@
 ### 📟 Hardware Engineering & Embedded Systems
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpueGtxZzR5bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKVUn7iM8FMEU24/giphy.gif" width="100%" alt="Circuitry Vibe">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWNvMThjMG1pa2oxbXRtNXNuMmU0dXJqcHBlMWtkNHoxeXVybWw3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9M5jK4GXmD5o1irGrF/giphy.gif" width="100%" alt="Circuit Animation">
 </p>
 
-> **"Building physical systems from the ground up. Currently exploring the intersection of Freeform Electronics and Mesh Networks."**
+> **"Currently in the lab. Developing a deep understanding of physical systems, embedded logic, and hardware aesthetics."**
 
 ---
 
-### 🏗️ Primary Focus: Hardware & Firmware
-- 🛠️ **Freeform Electronics:** Designing aesthetically functional circuits using bare brass and copper.
-- 📡 **Disaster Tech:** Developing a **LoRa Mesh Network** for decentralized communication.
-- 💨 **Smart Sensors:** Created an **ESP32 Air Quality Monitor** with real-time telemetry.
-- ⚡ **Student @ BCREC:** Currently in Year 2 of Electrical Engineering.
+### 🛠️ Technical Skills (What I Know)
+- **Microcontrollers:** ESP32, Arduino ecosystem.
+- **Circuitry:** Through-hole soldering, Sensor Interfacing (I2C/SPI), Basic PCB Design.
+- **Hardware Style:** Freeform Electronics (Brass/Copper wire construction).
+- **Firmware:** C++, Arduino IDE, Basic Python logic.
+- **Communication:** Fundamentals of LoRa (RA-02) and Wireless Telemetry.
 
 ---
 
-### 🧰 The Workbench (Core Skills)
-| Category | Tools & Tech |
-| :--- | :--- |
-| **Microcontrollers** | ESP32, Arduino, STM32 |
-| **Physical Logic** | Circuit Prototyping, RA-02 LoRa, Sensor Interfacing |
-| **Fabrication** | Freeform Soldering, PCB Design |
-| **Firmware** | C++, Arduino IDE |
+### 📚 Learning Path (What I'm Mastering)
+- [ ] **Advanced LoRa Mesh:** Moving from simple P2P to multi-node mesh networking.
+- [ ] **Structural Circuitry:** Refining the structural integrity of freeform builds.
+- [ ] **Embedded Debugging:** Learning to use logic analyzers and oscilloscopes.
+- [ ] **Power Management:** Optimizing projects for battery and solar efficiency.
+- [ ] **SparkStart:** Building the foundation for my DIY hardware brand.
 
 ---
 
-### 📚 Current Learning Path
-- [ ] **Advanced LoRa Topologies:** Optimizing packet delivery in mesh nodes.
-- [ ] **Signal Integrity:** Moving from breadboards to high-quality brass structures.
-- [ ] **SparkStart:** Building the foundation for my DIY hardware startup.
+### 🖥️ Support Stack
+- **Web Tools:** Next.js & Tailwind (For hardware dashboards).
+- **AI Workflow:** Using LLMs as assistants for firmware debugging.
+- **Local Dev:** Ryzen 5 6600 + RTX 4050 for local model experimentation.
 
 ---
 
-### 💻 Support Stack (Tools & Web)
-*These are the tools I use to power my hardware projects:*
-- **Web Development:** Next.js & Tailwind CSS (for hardware dashboards).
-- **AI Workflow:** Utilizing Gemini/ChatGPT as a force multiplier for firmware debugging.
-- **Local Env:** Running light LLMs on a Ryzen 5 6600 + RTX 4050 for offline documentation.
-
----
-
-### 📊 Activity Stats
+### 📊 Lab Activity (Stable View)
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+<img src="https://github-readme-stats.shion.dev/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
 ---
 
-### 🤝 Get in Touch
+### 🤝 Connect with me
 **[LinkedIn](YOUR_LINKEDIN_URL)** | **[Portfolio](YOUR_PORTFOLIO_URL)**
