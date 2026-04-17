@@ -36,11 +36,11 @@
 
 ### 📊 Lab Activity (Stable View)
 <p align="left">
-<img src="https://github-readme-stats.shion.dev/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+<img src="https://github-readme-stats.shion.dev/api?username=Probal_Khanra&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Probal_Khanra&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
 ---
 
 ### 🤝 Connect with me
-**[LinkedIn](YOUR_LINKEDIN_URL)** | **[Portfolio](YOUR_PORTFOLIO_URL)**
+**[LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/probal-khanra/))** | **[Portfolio]([YOUR_PORTFOLIO_URL](https://probal-portfolio.vercel.app/))**
