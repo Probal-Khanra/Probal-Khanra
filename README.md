@@ -45,6 +45,6 @@
 **[LinkedIn](https://www.linkedin.com/in/probal-khanra/)** | **[Portfolio (Under Workk)](https://probal-portfolio.vercel.app/)**
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnpqeHU0a3k2dHphYzh0dGRiemp5emFlZmwzNTg1c2RxdWNqaW5ycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QZyBvNVaMbIZ9yadec/giphy.gif" width="100%" alt="Circuit Animation">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnpqeHU0a3k2dHphYzh0dGRiemp5emFlZmwzNTg1c2RxdWNqaW5ycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QZyBvNVaMbIZ9yadec/giphy.gif" width="40%" alt="Circuit Animation">
 </p>
 
