@@ -2,7 +2,7 @@
 ### 📟 Hardware Engineering & Embedded Systems
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWNvMThjMG1pa2oxbXRtNXNuMmU0dXJqcHBlMWtkNHoxeXVybWw3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9M5jK4GXmD5o1irGrF/giphy.gif" width="100%" alt="Circuit Animation">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXczaG54ZzMzcTQ3ODhyMDFiMDExZDN2M3dzbml6a2RsZ25hYXBiMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QMHoU66sBXqqLqYvGO/giphy.gif" width="100%" alt="Circuit Animation">
 </p>
 
 > **"Currently in the lab. Developing a deep understanding of physical systems, embedded logic, and hardware aesthetics."**
