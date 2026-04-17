@@ -1,5 +1,5 @@
 # Probal Khanra
-### EE @ BCREC · Embedded Systems · Freeform Electronics
+### EE @ BCREC 
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXczaG54ZzMzcTQ3ODhyMDFiMDExZDN2M3dzbml6a2RsZ25hYXBiMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QMHoU66sBXqqLqYvGO/giphy.gif" width="100%" alt="Circuit Animation">
