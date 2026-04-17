@@ -42,4 +42,4 @@
 ---
 
 ### 🤝 Connect with me
-**[LinkedIn](https://www.linkedin.com/in/probal-khanra/)** | **[Portfolio(Under makingg :( )](https://probal-portfolio.vercel.app/)**
+**[LinkedIn](https://www.linkedin.com/in/probal-khanra/)** | **[Portfolio (Under Workk)](https://probal-portfolio.vercel.app/)**
