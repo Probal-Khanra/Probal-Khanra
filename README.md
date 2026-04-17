@@ -19,7 +19,7 @@
 
 **ESP32 DIY Camera** ✓ — Physical shutter button, WiFi image streaming. Built from scratch, no off-the-shelf camera module nonsense.
 
-**Health Monitor** ✗ *(sort of)* — MAX30205 temperature sensor, the hardware worked fine. The code did not. Shelved for now, will revisit when my firmware game catches up.
+**Health Monitor** ✗ *(sort of)* — MAX30105 temperature sensor, the hardware worked fine. The code did not. Shelved for now, will revisit when my firmware game catches up.
 
 ---
 
