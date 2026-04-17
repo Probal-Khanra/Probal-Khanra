@@ -1,39 +1,44 @@
-# ⚡ Probal | EE Student @ BCREC ⚡
-### 📟 Hardware Engineering & Embedded Systems
+# Probal Khanra
+### EE @ BCREC · Embedded Systems · Freeform Electronics
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXczaG54ZzMzcTQ3ODhyMDFiMDExZDN2M3dzbml6a2RsZ25hYXBiMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QMHoU66sBXqqLqYvGO/giphy.gif" width="100%" alt="Circuit Animation">
 </p>
 
-> **"Currently in the lab. Developing a deep understanding of physical systems, embedded logic, and hardware aesthetics."**
+---
+
+*I build things that are part circuit, part sculpture. Currently deep in embedded systems, LoRa telemetry, and the strange art of making electronics structurally freeform with brass and copper wire. When I'm not in the lab I'm debugging firmware at 2am.*
 
 ---
 
-### 🛠️ Technical Skills (What I Know)
-- **Microcontrollers:** ESP32, Arduino ecosystem.
-- **Circuitry:** Through-hole soldering, Sensor Interfacing (I2C/SPI), Basic PCB Design.
-- **Hardware Style:** Freeform Electronics (Brass/Copper wire construction).
-- **Firmware:** C++, Arduino IDE, Basic Python logic.
-- **Communication:** Fundamentals of LoRa (RA-02) and Wireless Telemetry.
+## What I work with
+
+**Microcontrollers** → ESP32, Arduino  
+**RF / Wireless** → LoRa (RA-02), learning mesh topologies  
+**Circuitry** → I2C/SPI sensor interfacing, through-hole soldering, basic PCB layout  
+**Firmware** → C++, Arduino IDE, occasional Python  
+**The weird stuff** → Freeform electronics — structural copper/brass wire builds that are circuits *and* sculptures
 
 ---
 
-### 📚 Learning Path (What I'm Mastering)
-- [ ] **Advanced LoRa Mesh:** Moving from simple P2P to multi-node mesh networking.
-- [ ] **Structural Circuitry:** Refining the structural integrity of freeform builds.
-- [ ] **Embedded Debugging:** Learning to use logic analyzers and oscilloscopes.
-- [ ] **Power Management:** Optimizing projects for battery and solar efficiency.
+## Currently learning
+
+- LoRa mesh: graduating from point-to-point to multi-node  
+- Embedded debugging: logic analyzers, oscilloscopes, the whole deal  
+- Power management: making builds survive on battery + solar  
+- Structural circuitry: making freeform builds that don't collapse after a week
 
 ---
 
-### 🖥️ Support Stack
-- **Web Tools:** Next.js & Tailwind (For hardware dashboards).
-- **AI Workflow:** Using LLMs as assistants for firmware debugging.
-- **Local Dev:** Ryzen 5 6600 + RTX 4050 for local model experimentation.
+## Side stack
+
+Next.js + Tailwind for hardware dashboards · LLMs for firmware debugging help  
+Daily driver: Ryzen 5 6600 + RTX 4050 · Running local models when I can
 
 ---
 
-### 📊 Lab Activity (Stable Mirror)
+## Lab activity
+
 <p align="left">
 <img src="https://github-readme-stats-alpha.vercel.app/api?username=Probal-Khanra&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
 <img src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=Probal-Khanra&layout=compact&theme=tokyonight&hide_border=true" height="150" />
@@ -41,14 +46,8 @@
 
 ---
 
-### 🤝 Connect with me
-**[LinkedIn](https://www.linkedin.com/in/probal-khanra/)** | **[Portfolio (Under Workk)](https://probal-portfolio.vercel.app/)**
+**[LinkedIn](https://www.linkedin.com/in/probal-khanra/)** · **[Portfolio](https://probal-portfolio.vercel.app/)** *(still wiring it up)*
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnpqeHU0a3k2dHphYzh0dGRiemp5emFlZmwzNTg1c2RxdWNqaW5ycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QZyBvNVaMbIZ9yadec/giphy.gif" width="40%" alt="Circuit Animation">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnpqeHU0a3k2dHphYzh0dGRiemp5emFlZmwzNTg1c2RxdWNqaW5ycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QZyBvNVaMbIZ9yadec/giphy.gif" width="35%" alt="Circuit Animation">
 </p>
-
-<p align="center">
-BYE BYE
-</p>
-
