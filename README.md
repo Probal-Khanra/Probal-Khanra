@@ -7,57 +7,53 @@
 
 ---
 
-*I build things that are part circuit, part sculpture. Embedded systems, LoRa telemetry, and the strange art of making electronics structurally freeform with brass and copper wire. When I'm not in the lab I'm debugging firmware at 2am and occasionally breaking things on purpose to understand them.*
+*I try to build things 
 
 ---
 
 ## Builds
 
-**Air Quality Monitor** — MQ-135, MQ-2, MQ-7 sensors with a local display and battery power. Reads gas levels, particulate matter, the air around you. Currently local-only, but getting connected to the internet soon. Next upgrade: PMS5003 for proper PM2.5/PM10 data.
+**AeroSense (AQM Node 02)** ✓ — Serverless, dual-core ESP32 environmental station. Captures real-time climate indices, laser particulate matter (PMS5003), and industrial gas readings (MQ-2, MQ-7). Built on a split-path architecture: streams to Firebase RTDB every 30s to feed a custom React dashboard, while offloading a 5-minute analytical archive to a Google Sheets warehouse via Google Apps Script. 
 
-**Freeform Table Clock** ✓ — AHT25 + PCF8563 RTC, built freeform with copper wire as the structure itself. The kind of thing that sits on your desk and makes people ask "wait, is that a circuit?" Yes. Yes it is.
+**Freeform Environmental Watch** ✓ — AHT25 + PCF8563 RTC + SSD1306 OLED, built freeform using 1mm brass wire as the structural chassis and power rails. Bare open electronics that double as desktop sculptures.
 
-**ESP32 DIY Camera** ✓ — Physical shutter button, WiFi image streaming. Built from scratch, no off-the-shelf camera module nonsense.
+**ESP32 DIY Camera** ✓ — Physical tactile shutter control, local storage, and live WiFi image streaming. Built from the silicon up, bypassing standard pre-assembled camera module footprints.
 
-**Health Monitor** ✗ *(sort of)* — MAX30105 temperature sensor, the hardware worked fine. The code did not. Shelved for now, will revisit when my firmware game catches up.
+**Health Monitor** ✗ *(sort of)* — MAX30105 optical pulse oximetry and temperature tracking. The hardware layer is solid; the firmware algorithms are currently parked. Shelved until my math catch-up queue clears.
 
 ---
 
 ## What I work with
 
-**Microcontrollers** → ESP32, Arduino  
-**RF / Wireless** → LoRa (RA-02), learning mesh topologies  
-**Circuitry** → I2C/SPI sensor interfacing, through-hole soldering, basic PCB layout  
-**Firmware** → C++, Arduino IDE, occasional Python  
-**The weird stuff** → Freeform electronics — structural copper/brass wire builds that are circuits *and* sculptures
+**Microcontrollers** → ESP32, ESP32-C3 Super Mini, STM32, Arduino  
+**RF / Wireless** → LoRa (SX1278 / Ra-02), designing decentralized mesh topologies  
+**Circuitry** → I2C/SPI sensor arrays, through-hole fabrication, freeform brass sculpting, KiCad schematic layout  
+**Firmware** → C++, Arduino IDE, MicroPython  
+**The industrial layout** → Raw, bare-metal hardware frameworks, structural circuits, and physical system logic
 
 ---
 
 ## On the bench
 
-Things I'm actively learning or planning to build next:
+Things I'm actively engineering or optimizing next:
 
-- **LoRa mesh network** — not just P2P anymore. Designing a multi-node network for rural/disaster area communication. Low power, long range, no internet required.
-- **Offline music player** — Raspberry Pi based, local storage, no streaming. Think Spotify but it works in a blackout.
-- **Custom power supply** — tired of depending on USB power banks. Building one properly.
-- **Own PCBs** — moving off breadboards and perfboard. Learning KiCad, making real boards.
-- **AQM v2** — adding PMS5003 particulate sensor and pushing data to the web.
+- **LoRa Disaster Mesh Network** — Developing a decentralized, multi-hop mesh routing network for emergency communication corridors. Zero internet dependency, low power envelope, structural node resilience.
+- **Offline Music Vault** — Raspberry Pi driven, local physical media array storage. Pure hardware playback engineered to withstand complete grid failure.
+- **Custom Bench Power Supply** — Moving away from fragile USB power banks. Engineering a stable, isolated multi-rail bench power unit from scratch.
 
 ---
 
 ## Currently learning
 
-- LoRa mesh: graduating from point-to-point to multi-node  
-- Embedded debugging: logic analyzers, oscilloscopes, the whole deal  
-- Power management: making builds survive on battery + solar  
-- Structural circuitry: making freeform builds that don't collapse after a week
+- Embedded Debugging: Logic analyzers, digital oscilloscopes, protocol sniffers.
+- Power Management: Deep sleep optimization, solar charging loops, lithium-ion cycle management.
+- Hardened Circuitry: Transitioning complex layouts from perfboard into custom multi-layer KiCad PCBs.
 
 ---
 
 ## Side stack
 
-Next.js + Tailwind for hardware dashboards · LLMs for firmware debugging help  
-Daily driver: Ryzen 5 6600 + RTX 4050 · Running local models when I can
+Daily driver: Ryzen 5 6600 + RTX 4050 · Running local models at the desktop layer
 
 ---
 
@@ -70,7 +66,7 @@ Daily driver: Ryzen 5 6600 + RTX 4050 · Running local models when I can
 
 ---
 
-**[LinkedIn](https://www.linkedin.com/in/probal-khanra/)** · **[Portfolio](https://probal-portfolio.vercel.app/)** *(still wiring it up)*
+**[LinkedIn](https://www.linkedin.com/in/probal-khanra/)** · **[Portfolio](https://probal-portfolio.vercel.app/)** *(live build)*
 
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnpqeHU0a3k2dHphYzh0dGRiemp5emFlZmwzNTg1c2RxdWNqaW5ycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QZyBvNVaMbIZ9yadec/giphy.gif" width="35%">
